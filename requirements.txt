@@ -1,0 +1,8 @@
+cryptography>=42
+numpy
+matplotlib
+pandas
+# agent experiment (GPU):
+transformers>=4.44
+accelerate
+torch
